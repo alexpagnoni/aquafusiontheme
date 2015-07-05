@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<structure>
+
+    <catalog	name="amp_misc_aquafusiontheme"	file="amp_misc_aquafusiontheme.catalog"/>
+    <huitheme	name="aquafusion"	file="aquafusion.huitheme"	catalog="amp_misc_aquafusiontheme"/>
+    <!--huicolorsset	name="aquafusion"	file="aquafusion.huicolorsset"	catalog="amp_misc_aquafusiontheme"/-->
+    <!--huistyle	name="aquafusion"	file="aquafusion.huistyle"	catalog="amp_misc_aquafusiontheme"/-->
+    <huiiconsset	name="aquafusion"	file="aquafusion.huiiconsset"	catalog="amp_misc_aquafusiontheme"/>
+
+</structure>
